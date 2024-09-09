@@ -1,4 +1,3 @@
-Меня зовут Арсений и я люблю делать приватные репозитории))))
 
 <!---
 0notcoder/0notcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
